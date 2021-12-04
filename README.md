@@ -23,3 +23,9 @@ https://www.instagram.com/p/CWpjRuJN4BP/
 dithering  
 
 ----------
+
+string art challenge
+
+https://www.instagram.com/p/CWmiTNUo0kn/
+
+------------
