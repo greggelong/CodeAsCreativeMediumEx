@@ -29,3 +29,9 @@ string art challenge
 https://www.instagram.com/p/CWmiTNUo0kn/
 
 ------------
+Another inspiration from an exercise in "Code as a Creative Medium" subsample and downsample an image 
+
+https://www.instagram.com/p/CXGdGhWPaJx/
+
+
+ 
