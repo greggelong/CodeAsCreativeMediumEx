@@ -33,5 +33,10 @@ Another inspiration from an exercise in "Code as a Creative Medium" subsample an
 
 https://www.instagram.com/p/CXGdGhWPaJx/
 
+-----
+noise islands
 
+https://www.instagram.com/p/CXOSf8-rlJS/
+
+Dreaming of getting out of the city and goingto the sea. For now only traveling imagination. These imaginary islands are created by visualizing 2d Perlin noise. Loop through the x y coordinates of the noise value and set ones smaller than 0.5 to blue. You can scroll through the world and come back to the same place.
  
