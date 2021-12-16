@@ -51,4 +51,7 @@ hitomezashi sashiko stitching
 https://www.instagram.com/p/CXTd8oqNHsJ/
 
 -------
+
+expanding on another exercise from the book Code as a Creative Medium. The living line with mouse x and y values stored in an array and plotted twice then used as the coordinates for the random ellipses. you can wiggle or unwiggle the line
+https://www.instagram.com/p/CXikAqgNj-4/
  
